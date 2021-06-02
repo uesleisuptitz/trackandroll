@@ -1,0 +1,6 @@
+module Pods_trackandroll {
+  umbrella header "Pods-trackandroll-umbrella.h"
+
+  export *
+  module * { export * }
+}

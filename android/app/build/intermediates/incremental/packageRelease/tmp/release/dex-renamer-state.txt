@@ -1,0 +1,4 @@
+#Mon Mar 08 18:20:32 BRT 2021
+base.0=/Users/uesleisuptitz/projetos/mobile/trackandroll/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

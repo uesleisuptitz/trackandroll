@@ -1,0 +1,6 @@
+module Pods_trackandroll_trackandrollTests {
+  umbrella header "Pods-trackandroll-trackandrollTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

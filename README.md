@@ -10,7 +10,7 @@ O Track’n Roll é um aplicativo desenvolvido para estabelecimentos divulgarem 
 
 As seguintes tecnologias foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 - [Firebase](https://firebase.google.com/?hl=pt)
 
 ## Pré-requisitos
